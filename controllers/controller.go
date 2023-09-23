@@ -3,9 +3,9 @@ package controller
 import (
 	"errors"
 	"fmt"
-	"github.com/borankux/resource/request"
-	"github.com/borankux/resource/response"
-	"github.com/borankux/resource/services"
+	"github.com/borankux/api-engine/request"
+	"github.com/borankux/api-engine/response"
+	"github.com/borankux/api-engine/services"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 	"reflect"

@@ -1,4 +1,4 @@
-module github.com/borankux/resource
+module github.com/borankux/api-engine
 
 go 1.19
 
